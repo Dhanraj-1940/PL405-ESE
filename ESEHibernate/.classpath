@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/MCA/sem4/PL405(software engineering)/labWork/mysql_drivers/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
